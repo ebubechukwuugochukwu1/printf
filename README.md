@@ -1,4 +1,4 @@
-This project is done by me Ebubechukwuugochukwu1 and my partner
+This project is done by Ebubechukwuugochukwu1 and my partner
 
 0x11. C - printf team project
 
