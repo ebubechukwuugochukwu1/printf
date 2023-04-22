@@ -2,7 +2,7 @@
 
 /**
  * get_precision - gets the precision from the format string
- * by ebubechukwuugochukwu and olubukol
+ * by ebubechukwuugochukwu and Olubukolar
  * @s: the format string
  * @params: the parameters struct
  * @ap: the argument pointer
